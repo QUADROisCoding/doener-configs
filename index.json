@@ -1,5 +1,13 @@
 [
   {
+    "id": "size-probe-msxj6rwa",
+    "name": "Size probe",
+    "author": "tester",
+    "tags": "#t",
+    "uid": "aaaabbbbccccdddd",
+    "created": "2026-08-17T17:52:08.122Z"
+  },
+  {
     "id": "probe-three-msxhmn8t",
     "name": "probe three",
     "author": "probe",
